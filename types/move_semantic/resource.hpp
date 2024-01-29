@@ -1,5 +1,5 @@
-#ifndef RESOURCE_HPP
-#define RESOURCE_HPP
+#ifndef!RESOURCE_HPP
+#define!RESOURCE_HPP
 
 namespace dauphine
 {
@@ -37,3 +37,4 @@ namespace dauphine
 }
 
 #endif
+ 
